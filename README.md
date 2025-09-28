@@ -6,7 +6,7 @@
 ---
 
 ## 🔬 What I'm working on  
-- 📊 [Statistical Analysis](https://github.com/your-username/statistical-analysis) – a repository showcasing my statistical analysis results  
+- 📊 [Statistical-Analysis](https://github.com/abdirasak-egeh/statistical-analysis) – a repository showcasing my statistical analysis results  
 
 ---
 
