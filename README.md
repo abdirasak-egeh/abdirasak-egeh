@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Abdirasak Egeh 👋  
 
-<!--
-**abdirasak-egeh/abdirasak-egeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a health analyst and recent MPhil graduate from the University of Cambridge.  
+🔍 I'm looking for collaborative opportunities in health research, statistical analysis, and public health surveillance.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 What I'm working on  
+- 📊 [Statistical Analysis](https://github.com/your-username/statistical-analysis) – a repository showcasing my statistical analysis results  
+
+---
+
+## 🛠️ Skills  
+- R  
+- SQL  
+- Excel  
+
+---
+
+## 🌐 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdirasakegeh/)  
+
+---
+
+💡 I enjoy exploring data-driven solutions in public health and am always open to collaboration on interesting projects.
