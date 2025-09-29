@@ -1,4 +1,4 @@
-# Hi, I'm Abdirasak Egeh 👋  
+# Greetings!, I'm Abdirasak Egeh 👋  
 
 🎓 I'm a health analyst and recent MPhil graduate from the University of Cambridge.  
 🔍 I'm looking for collaborative opportunities in health research, statistical analysis, and public health surveillance.  
