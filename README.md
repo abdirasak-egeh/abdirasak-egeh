@@ -1,12 +1,12 @@
 # Greetings!, I'm Abdirasak Egeh 👋  
 
-🎓 I'm a health analyst and recent MPhil graduate from the University of Cambridge.  
+🎓 I'm a public and environmental health analyst. 
 🔍 I'm looking for collaborative opportunities in health research, statistical analysis, and public health surveillance.  
 
 ---
 
 ## 🔬 What I'm working on  
-- 📊 [Statistical-Analysis](https://github.com/abdirasak-egeh/statistical-analysis) – a repository showcasing my statistical analysis results  
+- 📊 [Statistical-Analysis](https://github.com/abdirasak-egeh/statistical-analysis) – a repository showcasing my statistical analysis projects  
 
 ---
 
