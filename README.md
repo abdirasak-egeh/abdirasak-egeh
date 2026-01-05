@@ -1,4 +1,4 @@
-# Greetings!, I'm Abdirasak Egeh 👋  
+# Greetings! I'm Abdirasak Egeh 👋  
 
 🎓 I'm a public and environmental health analyst. 
 🔍 I'm looking for collaborative opportunities in health research, statistical analysis, and public health surveillance.  
